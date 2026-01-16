@@ -9,7 +9,7 @@ A minimalist Stoic productivity tool and mortality tracker built in Python.
 - **Minimalist UI:** Pure black and white aesthetic for focus.
 
 ## 🚀 How to Install (macOS)
-1. Go to [Releases](link-to-your-release) and download the `.zip` file.
+1. Go to [Releases](https://github.com/GarvGarg3/memento-mori-app/releases/tag/v1.0.0) and download the `.zip` file.
 2. Unzip and move the app to your `/Applications` folder.
 3. **IMPORTANT:** Because this is an unsigned app, you must **Right-Click** the app and select **Open** the first time you run it.
 4. Restart the app after entering your date of birth
